@@ -4,8 +4,8 @@ On that pebble thing
 >Images/Resources
   >>File name:
     >>>ScreenName-screenobject.png
-      >>>>e.g Home-Background.png
-      >>>>e.g DiceShow-Outline.png
+      >>>e.g Home-Background.png
+      >>>e.g DiceShow-Outline.png
   >> Identifier:
     >>>First 5 characters of LETTERSOFSCREEN_OJECT
       >>>e.g HOME_BACKG
