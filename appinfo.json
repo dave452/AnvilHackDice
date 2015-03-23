@@ -9,6 +9,16 @@
     "resources": {
         "media": [
             {
+                "file": "data/DiceMenu.svg",
+                "name": "DiceMenuSVG",
+                "type": "raw"
+            },
+            {
+                "file": "data/DiceHome.svg",
+                "name": "DiceHomeSVG",
+                "type": "raw"
+            },
+            {
                 "file": "images/DiceMenu.png",
                 "menuIcon": true,
                 "name": "DICE_MENU_ICON",
