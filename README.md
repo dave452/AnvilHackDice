@@ -1,41 +1,41 @@
 # AnvilHackDice
 On that pebble thing
 
-> Images/Resources
+Images/Resources
 
-  >> File name:
+  > File name:
   
-    > >> ScreenName-screenobject.png
+     >> ScreenName-screenobject.png
     
       > >> e.g Home-Background.png
       
       > >> e.g DiceShow-Outline.png
       
-  >> Identifier:
+  > Identifier:
   
-    > >> First 5 characters of LETTERSOFSCREEN_OJECT
+     >> First 5 characters of LETTERSOFSCREEN_OJECT
     
-      > >> e.g HOME_BACKG
+       >> e.g HOME_BACKG
+    
+       >> e.g DICES_OUTLI
       
-      > >> e.g DICES_OUTLI
-      
-> Script files
+ Script files
 
-  >> Functions:
+  > Functions:
 
-    > >> funFunctionName.c
+     >> funFunctionName.c
     
-    > >> e.g funTextUpdate.c
+     >> e.g funTextUpdate.c
   
-  >> Screens
+  > Screens
   
-    > >> scrScreenName.c
+     >> scrScreenName.c
     
-    > >> e.g scrHome.c
+     >> e.g scrHome.c
     
-  >> File Containing data such as numbers
+  > File Containing data such as numbers
   
-    > >> datNameOfDataList.c
+     >> datNameOfDataList.c
     
-    > >> e.g datAppUUID.
+     >> e.g datAppUUID.
    
