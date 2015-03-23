@@ -1,5 +1,5 @@
-# AnvilHackDice
-On that pebble thing
+# Naming Scheme
+Example of a possible Naming Scheme which is to be decided at the pub.
 
 **Images/Resources**
 
