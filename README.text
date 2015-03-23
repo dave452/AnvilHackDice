@@ -1,6 +1,6 @@
-# Asset naming
+# Asset naming:
 
-  -Images/Resources
+	-Images/Resources
 		>File name:
 			ScreenName-screenobject.png
 			e.g Home-Background.png
@@ -9,6 +9,7 @@
 			First 5 characters of LETTERSOFSCREEN_OJECT
 			e.g HOME_BACKG
 			e.g DICES_OUTLI
+			
 	-Script files
 		> Functions:
 			funFunctionName.c
