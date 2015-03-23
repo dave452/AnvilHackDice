@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "davemason232@gmail.com",
+    "longName": "AnvilHack2ElectricBugaloo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/HomeScreen2ElectricBugaloo.png",
+                "name": "HomeScr",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "AnvilHack2ElectricBugaloo",
+    "uuid": "26cc10b5-e6e6-4a69-a533-82623d5b7fd1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
