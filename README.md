@@ -1,7 +1,7 @@
 # AnvilHackDice
 On that pebble thing
 
-Images/Resources
+**Images/Resources**
 
   > File name:
   
@@ -19,7 +19,7 @@ Images/Resources
     
        >> e.g DICES_OUTLI
       
- Script files
+ **Script files**
 
   > Functions:
 
