@@ -9,8 +9,6 @@
 			First 5 characters of LETTERSOFSCREEN_OJECT
 			e.g HOME_BACKG
 			e.g DICES_OUTLI
-		
-	
 	-Script files
 		> Functions:
 			funFunctionName.c
