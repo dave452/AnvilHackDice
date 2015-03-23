@@ -9,14 +9,14 @@
     "resources": {
         "media": [
             {
-                "file": "images/DiceMenu.png",
-                "menuIcon": true,
-                "name": "DICE_MENU_ICON",
+                "file": "images/DiceHome1.png",
+                "name": "HomeScr",
                 "type": "png"
             },
             {
-                "file": "images/DiceHome1.png",
-                "name": "HomeScr",
+                "file": "images/DiceMenu.png",
+                "menuIcon": true,
+                "name": "DICE_MENU_ICON",
                 "type": "png"
             }
         ]
