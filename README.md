@@ -7,9 +7,9 @@ Example of a possible Naming Scheme which is to be decided at the pub.
   
      >> ScreenName-screenobject.png
     
-      > >> e.g Home-Background.png
+      >> e.g Home-Background.png
       
-      > >> e.g DiceShow-Outline.png
+      >> e.g DiceShow-Outline.png
       
   > Identifier:
   
