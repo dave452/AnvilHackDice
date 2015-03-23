@@ -3,23 +3,39 @@
     "capabilities": [
         ""
     ],
-    "companyName": "davemason232@gmail.com",
-    "longName": "AnvilHack2ElectricBugaloo",
+    "companyName": "Organometallic_Cranium",
+    "longName": "DiceRollahWithMacroFromAnvilHack",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/HomeScreen2ElectricBugaloo.png",
-                "name": "HomeScr",
+                "file": "data/DiceMenu.svg",
+                "name": "WATCH_APP_MENU_ICON_SVG",
+                "type": "raw"
+            },
+            {
+                "file": "data/DiceHome.svg",
+                "name": "HOMES_SVG_FOR_BACKG",
+                "type": "raw"
+            },
+            {
+                "file": "images/DiceMenu.png",
+                "menuIcon": true,
+                "name": "WATCH_APP_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/DiceHome1.png",
+                "name": "HOME_BACKG",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "2",
-    "shortName": "AnvilHack2ElectricBugaloo",
+    "shortName": "DiceRollah",
     "uuid": "26cc10b5-e6e6-4a69-a533-82623d5b7fd1",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": false
     }
