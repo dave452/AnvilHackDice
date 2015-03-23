@@ -10,23 +10,23 @@
         "media": [
             {
                 "file": "data/DiceMenu.svg",
-                "name": "DiceMenuSVG",
+                "name": "WATCH_APP_MENU_ICON_SVG",
                 "type": "raw"
             },
             {
                 "file": "data/DiceHome.svg",
-                "name": "DiceHomeSVG",
+                "name": "HOMES_SVG_FOR_BACKG",
                 "type": "raw"
             },
             {
                 "file": "images/DiceMenu.png",
                 "menuIcon": true,
-                "name": "DICE_MENU_ICON",
+                "name": "WATCH_APP_MENU_ICON",
                 "type": "png"
             },
             {
                 "file": "images/DiceHome1.png",
-                "name": "HomeScr",
+                "name": "HOME_BACKG",
                 "type": "png"
             }
         ]
